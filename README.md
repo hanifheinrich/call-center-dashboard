@@ -1,4 +1,4 @@
-# Call Center Dashboard
+# Call Center Trends Dashboard
 
 Dashboard ini merupakan salah satu rangkaian dalam proses magang virtual saya di PwC Switzerland - Power BI Job Simluation
 
