@@ -16,8 +16,8 @@ Dashboard ini merupakan salah satu rangkaian dalam proses magang virtual saya di
 Claire, Manajer Pusat Panggilan di PhoneNow, berfokus pada peningkatan transparansi dan pemahaman metrik kinerja utama dalam Pusat Panggilan. Dia sangat tertarik untuk melacak dan menganalisis poin-poin data seperti statistik penanganan panggilan, waktu respons, durasi panggilan, dan kepuasan pelanggan secara keseluruhan untuk mengidentifikasi tren jangka panjang dalam perilaku pelanggan dan agen. Menyadari pentingnya visualisasi data yang jelas dan berdampak, Claire meminta bantuan untuk membuat dasbor yang akan berfungsi sebagai alat penting untuk berdiskusi dengan manajemen, memastikan pengambilan keputusan yang tepat dan perencanaan strategis.
 
 ## Dataset
-Dataset yang digunakan untuk tugas ini disajikan oleh Pwc dan sumber dataset tren pusat panggilan: https://view.officeapps.live.com/op/view.aspx?src=https%3A%2F%2Fcdn.theforage.com%2Fvinternships%2Fcompanyassets%2F4sLyCPgmsy8DA6Dh3%2F01%2520Call-Center-Dataset.xlsx&wdOrigin=BROWSELINK
-
+Dataset yang digunakan untuk tugas ini disajikan oleh Pwc dan sumber dataset tren pusat panggilan: [dataset](https://view.officeapps.live.com/op/view.aspx?src=https%3A%2F%2Fcdn.theforage.com%2Fvinternships%2Fcompanyassets%2F4sLyCPgmsy8DA6Dh3%2F01%2520Call-Center-Dataset.xlsx&wdOrigin=BROWSELINK
+) 
 ## Objective
 Bagaimana cara membuat dasbor Power BI untuk memvisualisasikan indikator kinerja utama (KPI) dan metrik.
 
